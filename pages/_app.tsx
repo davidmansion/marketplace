@@ -6,7 +6,7 @@ import ThirdwebGuideFooter from "../components/ThirdwebGuideFooter";
 import "../styles/globals.css";
 
 // This is the chain your dApp will work on.
-const activeChain = "goerli";
+const activeChain = "binance";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (

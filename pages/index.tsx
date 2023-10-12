@@ -19,21 +19,22 @@ const Home: NextPage = () => {
       {/* Content */}
       <div className={styles.container}>
         {/* Top Section */}
-        <h1 className={styles.h1}>NFT Marketplace w/ thirdweb + Next.JS</h1>
+        <h1 className={styles.h1}>The Davey Nakamoto (DANA) NFT Marketplace
+no FUD needed here.</h1>
         <p className={styles.explain}>
-          Build an NFT marketplace using{" "}
+          Sell your useless unwanted {" "}
           <b>
             {" "}
             <a
-              href="https://thirdweb.com/"
+              href="https://daveynakamoto.lol/"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.purple}
             >
-              thirdweb
+              DANA
             </a>
           </b>{" "}
-          to list your ERC721 and ERC1155 tokens for auction or for direct sale.
+          NFTs for auction or for direct sale.
         </p>
 
         <hr className={styles.divider} />
